@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>recursos/img/abrir-documento.png</file>
+        <file>recursos/img/agregar-carrito.png</file>
+        <file>recursos/img/cerrar-sesion.png</file>
+        <file>recursos/img/cesta-de-la-compra_copy.png</file>
+        <file>recursos/img/cesta-de-la-compra.png</file>
+        <file>recursos/img/linea-de-ayuda.png</file>
+        <file>recursos/img/pyme.png</file>
+        <file>recursos/img/salvar.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
